@@ -86,4 +86,6 @@ button .material-icons{
 }
 button .material-icons:hover{
     font-size: 55px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
 }
